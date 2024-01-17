@@ -34,5 +34,12 @@ From the clustering results using one variable (univariate) there is not much in
 In this bivariate clustering, I used two variables, namely the 'Annual Income (k$)' and 'Spending Score (1-100)' variables. The clustering results will provide groups of customers or observations based on their income level and spending score.
 ![alt text](https://github.com/salsabilafcr/Customer_Segmentation_and_Clustering/blob/main/Bivariate%20Clusters.png?raw=true)
 
+![alt text](https://github.com/salsabilafcr/Customer_Segmentation_and_Clustering/blob/main/Cluster.png?raw=true)
+
+**Cluster Interpretations :**
+- Target group would be cluster 3 which has a high spending score and high income.
+- 53% of cluster 3 shoppers are women. We should look for ways to attract these customers using marketing campaign targeting popular items in this cluster.
+- Cluster 4 presents an interesting opportunity to market to the customers for sales event on popular items.
+
 
 
