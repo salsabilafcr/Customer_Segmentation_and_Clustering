@@ -32,4 +32,7 @@ From the clustering results using one variable (univariate) there is not much in
 
 ### Bivariate Clustering Results
 In this bivariate clustering, I used two variables, namely the 'Annual Income (k$)' and 'Spending Score (1-100)' variables. The clustering results will provide groups of customers or observations based on their income level and spending score.
+![alt text](https://github.com/salsabilafcr/Customer_Segmentation_and_Clustering/blob/main/Bivariate%20Clusters.png?raw=true)
+
+
 
