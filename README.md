@@ -22,4 +22,4 @@ Customer segmentation and clustering process involves the following steps:
 ## Univariate and Bivariate Clustering Results
 ### Univariate Clustering Results
 In this univariate clustering I only use one variable, the variable 'Annual Income (k$)'. The clustering results will provide groups of customers or observations based on their income level.
-![alt text](?raw=true)
+![alt text](https://github.com/salsabilafcr/Customer_Segmentation_and_Clustering/blob/main/Univariate%20Clusters.png?raw=true)
