@@ -23,3 +23,13 @@ Customer segmentation and clustering process involves the following steps:
 ### Univariate Clustering Results
 In this univariate clustering I only use one variable, the variable 'Annual Income (k$)'. The clustering results will provide groups of customers or observations based on their income level.
 ![alt text](https://github.com/salsabilafcr/Customer_Segmentation_and_Clustering/blob/main/Univariate%20Clusters.png?raw=true)
+
+**Cluster Interpretations :**
+From the clustering results using one variable (univariate) there is not much information that we can get. However, if you notice that cluster 1 has the highest income and expenditure score compared to the other two clusters. Therefore, the marketing team can focus on conducting campaigns in this cluster. And do more promotions for the other two clusters to increase shopping interest.
+
+**Disclaimer!** It should be noted that univariate clustering may provide limited understanding as only one dimension is considered. In most cases, multivariate clustering (using multiple variables) is more informative as it can account for variations in multiple dimensions, providing better and more accurate segmentation. In this case I used bivariate clustering to determine the target cluster.
+
+
+### Bivariate Clustering Results
+In this bivariate clustering, I used two variables, namely the 'Annual Income (k$)' and 'Spending Score (1-100)' variables. The clustering results will provide groups of customers or observations based on their income level and spending score.
+
