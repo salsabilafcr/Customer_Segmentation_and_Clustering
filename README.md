@@ -1,5 +1,5 @@
 # Segment Shopping Customers using KMeans Clustering
-This data analysis portfolio project contains customer segmentation using the Mall Customers dataset. Here I performed best cluster identification using KMeans unsupervised machine learning algorithm to find univariate and bivariate clusters. Once these clusters were identified, summary statistics were performed to identify the best marketing groups. 
+KMeans Clustering was utilized in this data analysis portfolio project to efficiently categorize customers, providing actionable insights for the marketing team to customize strategies and enhance the overall customer experience. The analysis included the identification of univariate and bivariate clusters, followed by the performance of summary statistics to identify the best marketing groups.
 
 
 ## Problem Statement
@@ -7,7 +7,7 @@ The marketing team aims to develop a targeted strategy to enhance customer engag
 
 
 ## Objective Segmentatins
-Determine the optimal number of customer groups and assign labels to each group. By gaining insights into these segments, the marketing team can tailor their strategies, promotions, and services to better meet the specific needs and preferences of each identified group. This targeted approach is expected to improve customer satisfaction, increase loyalty, and drive overall business success.
+Defining optimal customer groups allows marketing teams to customize their strategies, promotions, and services to better address the specific needs and preferences of each identified group. This targeted approach is expected to improve customer satisfaction, increase loyalty, and drive overall business success.
 
 
 ## Customer Segmentation and Clustering Process
