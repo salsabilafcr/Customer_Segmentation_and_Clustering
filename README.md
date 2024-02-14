@@ -6,7 +6,7 @@ KMeans Clustering was utilized in this data analysis portfolio project to effici
 The marketing team aims to develop a targeted strategy to enhance customer engagement and satisfaction. To achieve this, it is crucial to identify distinct shopping groups within the customer base at the mall. The primary focus is on understanding the key segments based on income, age, and shopping score. 
 
 
-## Objective Segmentatins
+## Objective Segmentations
 Defining optimal customer groups allows marketing teams to customize their strategies, promotions, and services to better address the specific needs and preferences of each identified group. This targeted approach is expected to improve customer satisfaction, increase loyalty, and drive overall business success.
 
 
